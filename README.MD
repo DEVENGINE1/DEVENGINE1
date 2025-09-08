@@ -4,7 +4,7 @@
   
 </h1>
 
-**I am an accomplished Backend-Developer boasting over 3+ years of expertise in the field. My fervor lies in devising cutting-edge solutions and fostering the expansion of the technology community.**
+***I am an accomplished Backend-Developer boasting over 3+ years of expertise in the field. My fervor lies in devising cutting-edge solutions and fostering the expansion of the technology community.***
 
 ### 🛠️ Technologies & Tools
 
