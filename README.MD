@@ -1,10 +1,10 @@
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=Hey!I+am+SoftWare+Engineer...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=Hey! I+am+SoftWare+Engineer...;)](https://git.io/typing-svg)
   
 </h1>
 
-I am an accomplished Backend-Developer boasting over 3+ years of expertise in the field. My fervor lies in devising cutting-edge solutions and fostering the expansion of the technology community.
+**I am an accomplished Backend-Developer boasting over 3+ years of expertise in the field. My fervor lies in devising cutting-edge solutions and fostering the expansion of the technology community.**
 
 ### 🛠️ Technologies & Tools
 
@@ -38,11 +38,9 @@ I am an accomplished Backend-Developer boasting over 3+ years of expertise in th
 
 <h2> About Me</h2>
 
-- 🔭 I’m currently working on Spring Boot Microservices
+- 🔭 I’m currently working on NEXT.JS AND LARAVEL FRAMEWORK
 
 - 🌱 I’m currently working on Azure Microsoft cloud infrastructure
-- react-native cross open-source
-- Blockchain development 
 
 - 👯 I’m looking to collaborate on Open source projects.
 
